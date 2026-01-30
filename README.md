@@ -23,6 +23,7 @@ These are custom "tools" created to keep the main loop clean:
 **get_student_info():** Takes that ID and searches through the arrays. If it finds a match, it packages the student's Grade, Strand, and Section into a StudentInfo structure.
 
 _Summary of Logic Flow:_
+
 **Identify** the card.
 **Retrieve** the owner's info.
 **Determine** if they are arriving or leaving.
